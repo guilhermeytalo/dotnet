@@ -1,0 +1,15 @@
+/Users/guilhermeytalo/Dev/c#/DotNetDebugging/DotNetDebugging/bin/Release/net6.0/DotNetDebugging
+/Users/guilhermeytalo/Dev/c#/DotNetDebugging/DotNetDebugging/bin/Release/net6.0/DotNetDebugging.deps.json
+/Users/guilhermeytalo/Dev/c#/DotNetDebugging/DotNetDebugging/bin/Release/net6.0/DotNetDebugging.runtimeconfig.json
+/Users/guilhermeytalo/Dev/c#/DotNetDebugging/DotNetDebugging/bin/Release/net6.0/DotNetDebugging.dll
+/Users/guilhermeytalo/Dev/c#/DotNetDebugging/DotNetDebugging/bin/Release/net6.0/DotNetDebugging.pdb
+/Users/guilhermeytalo/Dev/c#/DotNetDebugging/DotNetDebugging/obj/Release/net6.0/DotNetDebugging.csproj.AssemblyReference.cache
+/Users/guilhermeytalo/Dev/c#/DotNetDebugging/DotNetDebugging/obj/Release/net6.0/DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guilhermeytalo/Dev/c#/DotNetDebugging/DotNetDebugging/obj/Release/net6.0/DotNetDebugging.AssemblyInfoInputs.cache
+/Users/guilhermeytalo/Dev/c#/DotNetDebugging/DotNetDebugging/obj/Release/net6.0/DotNetDebugging.AssemblyInfo.cs
+/Users/guilhermeytalo/Dev/c#/DotNetDebugging/DotNetDebugging/obj/Release/net6.0/DotNetDebugging.csproj.CoreCompileInputs.cache
+/Users/guilhermeytalo/Dev/c#/DotNetDebugging/DotNetDebugging/obj/Release/net6.0/DotNetDebugging.dll
+/Users/guilhermeytalo/Dev/c#/DotNetDebugging/DotNetDebugging/obj/Release/net6.0/refint/DotNetDebugging.dll
+/Users/guilhermeytalo/Dev/c#/DotNetDebugging/DotNetDebugging/obj/Release/net6.0/DotNetDebugging.pdb
+/Users/guilhermeytalo/Dev/c#/DotNetDebugging/DotNetDebugging/obj/Release/net6.0/DotNetDebugging.genruntimeconfig.cache
+/Users/guilhermeytalo/Dev/c#/DotNetDebugging/DotNetDebugging/obj/Release/net6.0/ref/DotNetDebugging.dll
